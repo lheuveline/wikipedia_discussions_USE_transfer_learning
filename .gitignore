@@ -1,0 +1,4 @@
+data/
+tf_model/
+.vscode/
+__pycache__/
