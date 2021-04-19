@@ -1,5 +1,7 @@
 data/
-tf_model/
+tf_models/
+
+
 .vscode/
 __pycache__/
 .ipynb_checkpoints/
